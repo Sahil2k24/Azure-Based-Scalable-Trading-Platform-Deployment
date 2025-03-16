@@ -1,7 +1,3 @@
-Here’s a detailed README file for your Azure-Based Scalable Trading Platform Deployment:
-
----
-
 # Azure-Based Scalable Trading Platform Deployment
 
 ## Overview
@@ -191,11 +187,3 @@ Weekly deployment reports are generated using GitHub Actions and sent to the tea
 This scalable trading platform deployment on Azure provides a robust and secure solution for trading operations. By utilizing Terraform for infrastructure provisioning, CI/CD pipelines for automation, SonarQube for code quality, and Prometheus/Grafana for monitoring, the system is optimized for high availability, performance, and security.
 
 With ongoing cost optimization and proactive resource management, the platform is designed to scale seamlessly while minimizing cloud costs.
-
----
-
-**Feel free to contact for any queries or contributions.**
-
---- 
-
-This README captures all the essential details of your deployment. Let me know if you need any adjustments!
