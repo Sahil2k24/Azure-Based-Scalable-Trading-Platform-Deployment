@@ -1,5 +1,7 @@
 # Azure-Based Scalable Trading Platform Deployment
 
+![image](https://github.com/user-attachments/assets/41b6ef9b-8013-4ee5-a691-d8362c0d6e21)
+
 ## Overview
 
 This project involves the deployment of a scalable trading platform on Microsoft Azure. The goal is to ensure high availability, performance, and security for trading operations while optimizing costs and automating infrastructure management. The platform is deployed using **Azure Kubernetes Service (AKS)**, with continuous integration and continuous deployment (CI/CD) pipelines, enhanced security measures, monitoring, and observability using industry-standard tools.
